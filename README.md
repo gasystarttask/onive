@@ -34,3 +34,8 @@ Phase 3: Domain-specific adapters for healthcare and meetings.
 Phase 4: Evaluation, preference tuning, and open demo release.
 
 By publishing models, code, and training recipes openly, we hope to foster a Malagasy NLP community where developers, researchers, and practitioners can build on top of this work. The project is designed to be modular and extensible, so anyone can create derived applications in Malagasy, from healthcare to business tools.
+
+### 📖 Documentation:  
+- [Model Card (English)](docs/MODEL_CARD.en.md) | [Karatra modely (Malagasy)](docs/MODEL_CARD.mg.md)  
+- [Safety (EN)](docs/SAFETY.en.md) | [Fiarovana (MG)](docs/SAFETY.mg.md)  
+- [Roadmap](docs/ROADMAP.md)  
