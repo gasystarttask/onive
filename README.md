@@ -1,7 +1,7 @@
 # Onive
 ## Malagasy LLM – based on Qwen2.5-7B-Instruct
 
-This project provides an open-source Malagasy Large Language Model (LLM) built on Qwen2.5-7B-Instruct, a strong multilingual instruction-tuned model. Our goal is to make high-quality natural language processing accessible for the Malagasy language, enabling both general-purpose conversation and specialized applications.
+This project provides an open-source Malagasy Large Language Model (LLM) built on `Qwen2.5-7B-Instruct`, a strong multilingual instruction-tuned model. Our goal is to make high-quality natural language processing accessible for the Malagasy language, enabling both general-purpose conversation and specialized applications.
 
 Although Malagasy is a low-resource language, we leverage Language Adaptive Fine-Tuning (LAFT) on public Malagasy corpora (Wikipedia, OSCAR, Tatoeba, JW300) and Parameter-Efficient Fine-Tuning (PEFT) methods such as LoRA/QLoRA. This allows us to train effectively on a single 32 GB GPU while preserving the performance of the base model.
 
