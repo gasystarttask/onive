@@ -39,3 +39,4 @@ By publishing models, code, and training recipes openly, we hope to foster a Mal
 - [Model Card (English)](docs/MODEL_CARD.en.md) | [Karatra modely (Malagasy)](docs/MODEL_CARD.mg.md)  
 - [Safety (EN)](docs/SAFETY.en.md) | [Fiarovana (MG)](docs/SAFETY.mg.md)  
 - [Roadmap](docs/ROADMAP.md)  
+- [Contributing](docs/CONTRIBUTING.md)
