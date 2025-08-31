@@ -1,0 +1,48 @@
+# Dataset Catalog
+# Tracks source, size, license, and usage policy for all datasets
+
+datasets:
+  oscar_malagasy:
+    name: "OSCAR Malagasy Corpus"
+    source: "https://oscar-project.org/"
+    language: "mg"
+    size: "~50MB"
+    license: "CC0-1.0"
+    description: "Large-scale multilingual corpus extracted from Common Crawl"
+    usage_policy: "Public domain, no restrictions"
+    download_date: null
+    preprocessing_status: "pending"
+    
+  opus_en_mg:
+    name: "OPUS English-Malagasy Parallel Corpus"
+    source: "https://opus.nlpl.eu/"
+    languages: ["en", "mg"]
+    size: "~5MB"
+    license: "Various (see individual corpus licenses)"
+    description: "Collection of parallel texts from multiple sources"
+    usage_policy: "Check individual corpus licenses"
+    download_date: null
+    preprocessing_status: "pending"
+    
+  bible_parallel:
+    name: "Bible Parallel Corpus"
+    source: "https://opus.nlpl.eu/Bible.php"
+    languages: ["en", "mg"]
+    size: "~2MB"
+    license: "Public Domain"
+    description: "Parallel Bible translations"
+    usage_policy: "Public domain, no restrictions"
+    download_date: null
+    preprocessing_status: "pending"
+
+# Metadata tracking
+catalog_version: "1.0"
+last_updated: "2025-08-31"
+maintainer: "onive-project"
+
+# Quality metrics (to be filled after processing)
+quality_metrics:
+  total_datasets: 3
+  total_size_mb: 57
+  languages_covered: ["en", "mg"]
+  license_compliance: "verified"
