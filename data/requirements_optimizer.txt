@@ -1,0 +1,2 @@
+# Performance optimizations for OPUS downloader
+tqdm>=4.64.0  # Progress bars for downloads
