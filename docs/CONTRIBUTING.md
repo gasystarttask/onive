@@ -45,9 +45,8 @@ This project is **community-driven**, and we welcome contributions in many forms
 
 ## 🔒 Contribution Policy
 
-- Be respectful and inclusive.
+- Be nice and respectful.
 - Respect Malagasy culture, dialects, and diversity.
-- No harmful, offensive, or unsafe content in data or prompts.
 - Medical contributions must include a **safety disclaimer** (see `docs/SAFETY.*`).
 - All contributions are reviewed before merging.
 
@@ -76,6 +75,9 @@ pytest
 - Contributions can be written in English or Malagasy.
 
 - For docs: try to provide both (even short translations).
+
+### 🤝 Community
+- Join us on Discord server: https://discord.gg/cbFPkvcb
 
 ### 🙏 Acknowledgements
 
